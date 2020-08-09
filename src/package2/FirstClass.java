@@ -13,6 +13,7 @@ public class FirstClass {
 		System.out.println("First commit from yasin branch");
 		
 		System.out.println("The second commit from local yasin branch");
+		System.out.println("This is going to cause a conflict if a merge will be done here);
 
 	}
 
